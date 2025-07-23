@@ -125,7 +125,7 @@ task_count = 0
 update_count = 0
 
 print("\n📌 Dictionary Management Program")
-print("🧠 Manage your dictionary interactively!\n")
+print("Manage your dictionary interactively!\n")
 
 while True:
     if not dictionary:
